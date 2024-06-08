@@ -1,5 +1,5 @@
 def Upper_triangular(n):
     for i in range(n, 0, -1):
         print('* ' * i)
-
-Upper_triangular(5)
+n=5
+Upper_triangular(n)
